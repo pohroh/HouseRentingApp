@@ -1,0 +1,14 @@
+MENU.XML
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/flats"
+        android:title="@string/Flats" />
+    <item
+        android:id="@+id/pgs"
+        android:title="@string/PGs" />
+    <item
+        android:id="@+id/logout"
+        android:title="@string/logout" />
+
+</menu>

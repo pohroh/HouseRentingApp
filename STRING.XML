@@ -1,0 +1,55 @@
+STRING.XML
+
+<resources>
+    <string name="app_name">MyRento1</string>
+    <string name="Flats">Flats</string>
+    <string name="PGs">PGs</string>
+    <string name="logout">Logout</string>
+    <string name="city"></string>
+    <string name="rate">RATE OUR APP...</string>
+    <string name="BHK1delhi">Logout</string>
+    <string-array name="gender">
+        <item>please select gender</item>
+        <item>male</item>
+        <item>female</item>
+        <item>other</item>
+    </string-array>
+    <string-array name="delhiflats">
+        <item>1 BHK,Independent Floor,Pitampura,Delhi</item>
+        <item>2 BHK,Independent Floor,Patel Nagar West</item>
+        <item>3 BHK,Independent Floor,Lajpat Nagar,National Park</item>
+        <item>3 BHK,Independent Floor,Paschim Vihar,Peeragarhi Village</item>
+    </string-array>
+    <string-array name="kolkataflats">
+        <item>2 BHK Apartment,kestopur,Ghosh para</item>
+        <item>3 BHK Apartment,New Town,ActionArea I</item>
+        <item>2 BHK Apartment,Rajarghat,Action Area II</item>
+        <item>2 BHK Apartment,Garia,Mahamaya Tala</item>
+    </string-array>
+    <string-array name="hyderabadflats">
+        <item>3 BHK Apartment,Kondapur,Whitefields</item>
+        <item>4 BHK Apartment,Banjara Hills Valley</item>
+        <item>2 BHK Apartment,Madhapur,Mega Hills</item>
+        <item>3 BHK Apartment,Gachibowli</item>
+    </string-array>
+    <string-array name="puneflats">
+        <item>2 BHK Apartment,Shankar Kalate Nagar,Pune</item>
+        <item>1 BHK Apartment,Hadapsar,Magarpatta City</item>
+        <item>2 BHK Apartment,Kharadi,Rakshak Nagar</item>
+        <item>1 BHK Apartment,Hinejewadi</item>
+    </string-array>
+    <string-array name="delhipgs">
+        <item>Girls/Women PG,AfloHomes,Lajpat Nagar III,New Delhi</item>
+        <item>Boys/Men PG,Guru Kripa Boys PG,Kamla Nagar</item>
+        <item>Girls PG,Sector 16,Rohini,India</item>
+        <item>Girls/Women PG,Sanskriti PG,Delhi University,North Campus</item>
+    </string-array>
+    <string-array name="kolkatapgs">
+        <item>Boys/Men PG,Sima Katarika boys PG,Patuapara,Bhowanipora</item>
+        <item>Boys/Men PG,Dutta Boys PG,Machui Bazar</item>
+        <item>Girls/Women PG,Jhunjhunwala Girls PG,Began,Joransko</item>
+        <item>Girls/Women PG,Subha Shree Women PG,Raja Katra</item>
+    </string-array>
+
+
+</resources>
