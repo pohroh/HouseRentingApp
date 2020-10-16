@@ -4,7 +4,7 @@ package com.example.myrento1;
 public class Userclass {
     int _id;
     String _username;
-    int _email;
+    String _email;
     String _password;
     String _phone_number;
     String _age;
