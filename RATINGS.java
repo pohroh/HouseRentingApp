@@ -83,7 +83,7 @@ RadioButton rawful,rpoor,raverage,rgood,rgreat;
 
         switch (item.getItemId()) {
             case R.id.flats:
-                i5=new Intent(this,MainActivity.class);
+                i5=new Intent(this,Main2Activity.class);
                 startActivity(i5);
                 return true;
             case R.id.pgs:
