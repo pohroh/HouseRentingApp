@@ -15,14 +15,14 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        explore=(Button)findViewById(R.id.button13);
-        explore.setOnClickListener(this);
+        exp=(Button)findViewById(R.id.button13);
+        exp.setOnClickListener(this);
 
     }
 
     @Override
     public void onClick(View view) {
-        if(view==explore)
+        if(view==exp)
         {
            Intent i=new Intent(this,signuporlogin.class);
             startActivity(i);
