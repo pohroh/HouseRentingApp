@@ -20,7 +20,7 @@ import android.widget.Toast;
 
 import java.util.List;
 
-public class signuporlogin extends AppCompatActivity implements View.OnClickListener {
+public class signuporlogin  {
     EditText e1,e2,e3,e4,e5;
     Spinner s1,s2;
     Button b1,b2,b3,b4,bShow;
